@@ -231,6 +231,6 @@ ini adalah output apabila memilih hapus (h)
 
 ini adalah output apabila memilih keluar (k)
 
-<img width="356" alt="screenshot reza 6" src="https://user-images.githubusercontent.com/115516607/203917009-bfe66da7-cdcb-4b89-ba49-8a2d78eade50.png">
+<img width="353" alt="screenshot reza 7" src="https://user-images.githubusercontent.com/115516607/203918341-23e84dd0-8dd9-45cb-a258-fadb117f7e1c.png">
 
 ## SEKIAN TERIMAKASIH
