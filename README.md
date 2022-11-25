@@ -223,7 +223,7 @@ ini adalah output apabila memilih  mencari (c)
 
 ini adalah output apabila memilih lihat (l)
 
-<img width="477" alt="screenshot reza5" src="https://user-images.githubusercontent.com/115516607/203916445-2109264d-33e8-4a37-818d-4de72fbd3ea2.png">
+<img width="419" alt="screenshoot reza 8" src="https://user-images.githubusercontent.com/115516607/203920837-5428e407-5096-4af8-ae33-b235d61dd3f1.png">
 
 ini adalah output apabila memilih hapus (h) 
 
