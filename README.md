@@ -82,7 +82,7 @@ del b['dina']
 
 # flowchart
 
-![img](gambar/flowchart.png)
+![flowchart (1)](https://user-images.githubusercontent.com/115516607/203926255-de02ea1f-6819-4634-a4b3-091ffe01bd1b.png)
 
 # jawab
 
