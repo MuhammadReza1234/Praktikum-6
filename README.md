@@ -233,4 +233,4 @@ ini adalah output apabila memilih keluar (k)
 
 <img width="353" alt="screenshot reza 7" src="https://user-images.githubusercontent.com/115516607/203918341-23e84dd0-8dd9-45cb-a258-fadb117f7e1c.png">
 
-## SEKIAN TERIMAKASIH
+## SEKIAN TUTORIAL TERIMAKASIH 
